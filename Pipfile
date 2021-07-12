@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 snowflake-connector-python = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
