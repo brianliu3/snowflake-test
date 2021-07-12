@@ -9,5 +9,5 @@ pipenv install
 ```
 
 ### Usage
-1. Copy `.env` file from `.env.example` and fill in environment variables
+1. Create `.env` file from `.env.example` and fill in environment variables
 2. Run `python main.py`
